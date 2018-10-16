@@ -1,0 +1,14 @@
+git clone <URL>
+git pull  //pull object from git repo.
+// git push process//
+git add . or git add <filename>
+git commit -m "message"
+git push origin 
+//git status//
+git status
+// branch check//
+git branch
+// branch change//
+git checkout <branch name>
+git checkout -b <branch name> // for create new branch and switch to it.
+
